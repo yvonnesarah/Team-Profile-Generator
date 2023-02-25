@@ -1,13 +1,13 @@
 {
-  "name": "employee-tracker",
+  "name": "Team-Profile-Generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Application that generates HTML files that displays the team's basic info",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Yvonne Adedeji",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^6.5.2"
   },
