@@ -123,7 +123,7 @@ promptQuestions();
 function createTeam() {
     console.log("new person", newStaffMemberData)
     fs.writeFileSync(
-        "./output/index.html",
+        "./output/team.html",
         generateTeam(newStaffMemberData),
         "utf-8"
     );
