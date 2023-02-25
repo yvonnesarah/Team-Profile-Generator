@@ -60,3 +60,8 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 
 ## Screenshot
 ![Screenshot](assets/image/team-profile.png "Team Profile")
+
+## License
+
+Please refer to the LICENSE in the repo.
+
