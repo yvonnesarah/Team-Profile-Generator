@@ -11,6 +11,7 @@ Built with:
 * CSS
 * (Bootstrap)
 * JavaScript
+* Node
 
 My application will use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. The application will be invoked by using the following command:
 
