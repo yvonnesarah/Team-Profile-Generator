@@ -6,6 +6,7 @@ This `CLI` application will take in information about employees on a software en
 ## Prerequisites
 You must have node.js installed on your computer to install this application.
 
+## Technologies Used
 Built with:
 * HTML
 * CSS
@@ -13,9 +14,7 @@ Built with:
 * JavaScript
 * Node
 
-My application will use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. The application will be invoked by using the following command:
-
-node index.js
+My application will use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. The application will be invoked by using the following command: node index.js
 
 This application includes `Employee`, `Manager`, `Engineer`, and `Intern` classes. The tests for these classes (in the `_tests_` directory) ALL pass.
 
@@ -59,10 +58,22 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 
 * `getRole()`&mdash;overridden to return `'Intern'`
 
+## Installation
+N/A
+
+## Usage
+N/A
+
+## Project Link
+Application can can be viewed here: 
+* [Repository](https://github.com/yvonnesarah/Team-Profile-Generator)
+
 ## Screenshot
-![Screenshot](assets/image/team-profile.png "Team Profile")
+![Screenshot](assets/images/team-profile.png "Team Profile")
+
+## Credit
+N/A
 
 ## License
-
 Please refer to the LICENSE in the repo.
 
