@@ -69,6 +69,7 @@ Application can can be viewed here:
 * [Repository](https://github.com/yvonnesarah/Team-Profile-Generator)
 
 ## Screenshot
+Team Profile
 ![Screenshot](assets/images/team-profile.png "Team Profile")
 
 ## Credit
