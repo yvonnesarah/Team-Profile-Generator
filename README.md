@@ -4,7 +4,13 @@
 This `CLI` application will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Using this application, you will generate an html called team.html containing a profile card for each Team Member. You will answer a brief series of questions to populate the information within the card. 
 
 ## Prerequisites
-You must have node.js installed on your computer to install this application.
+You must have node.js installed and npm (Node Package Manager) on your computer to install this application.
+
+## Features
+* Collect and display information about team members.
+* Generate a responsive webpage with team member profiles.
+* Include details such as name, role, email, and other relevant information.
+* User-friendly interface for adding and editing team members.
 
 ## Technologies Used
 Built with:
@@ -62,7 +68,11 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 N/A
 
 ## Usage
-N/A
+* Open a terminal and navigate to the project directory.
+* Run the application using node app.js.
+* Follow the prompts to enter information about each team member.
+* Once all information is entered, a team profile page will be generated in the output directory.
+* Open the generated HTML file in your browser to view the team profile.
 
 ## Project Link
 Application can can be viewed here: 
