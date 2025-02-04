@@ -15,6 +15,7 @@ Before using this application, ensure you have the following installed:
 * Provides a user-friendly interface for adding and managing team members.
 
 Classes & Structure
+
 The application is structured around four key classes: Employee, Manager, Engineer, and Intern. These classes define properties and methods for handling team member information.
 
 Employee (Parent Class)
